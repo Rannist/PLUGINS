@@ -1,0 +1,12 @@
+name: First
+version: '1.0-SNAPSHOT'
+main: ran.nist.first.First
+api-version: '1.19'
+
+commands:
+  weapon:
+    description: 'Command description'
+    usage: '/weapon'
+  snstick:
+    description: Give the player a stick named "傻鸟木棍"
+    usage: /snstick

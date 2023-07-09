@@ -1,0 +1,10 @@
+weapons:
+  sword_of_power:
+    name: "Sword of Power"
+    damage: 10
+    durability: 1000
+  bow_of_light:
+    name: "Bow of Light"
+    damage: 5
+    durability: 500
+    arrows: 64
