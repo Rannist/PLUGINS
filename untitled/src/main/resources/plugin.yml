@@ -1,0 +1,11 @@
+name: SHABI
+version: 1.0
+main: ran.nist.shabi.RidePlugin
+api-version: 1.19
+commands:
+  ride:
+    description: 获得一个特殊的鞍
+    permission: ride.use
+  hat:
+    description: 将物品放在头上
+    permission: hat.use
